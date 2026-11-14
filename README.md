@@ -74,23 +74,36 @@ An NLP and Machine Learning web application that classifies SMS messages as Spam
 
 🔗 [View SmartSpam Repository](https://github.com/RakeshBasavarajAngadi/SmartSpam)
 
-### 2. LeetCode Progress Tracker
+### 2. CampusConnect – REVA University Campus Website
+
+A college-focused web application designed to provide students with useful information about campus facilities and services.
+
+**Technologies:** HTML, CSS, JavaScript, Java Backend.
+
+- College and hostel information.
+- Mess and food court details.
+- Campus facilities information.
+- Campus location assistance.
+
+🔗 [View CampusConnect Repository](YOUR_CAMPUSCONNECT_REPOSITORY_LINK)
+
+### 3. Talent Hub – Talent Management Platform
+
+A project focused on providing a platform for talent-related information and opportunities.
+
+**Technologies:** Add the exact technologies used in your project.
+
+- Talent-related information and management.
+- Web-based user interface.
+- Project functionality and features implemented in the application.
+
+🔗 [View Talent Hub Repository](YOUR_TALENTHUB_REPOSITORY_LINK)
+
+### 4. LeetCode Progress Tracker
 
 A project focused on tracking coding practice and problem-solving progress.
 
-🔗 [View Repository](https://github.com/RakeshBasavarajAngadi/leetcode-progress-tracker)
-
-### 3. Heap Sort – DAA Mini Project
-
-An implementation of the Heap Sort algorithm for studying sorting techniques and algorithm analysis.
-
-🔗 [View Repository](https://github.com/RakeshBasavarajAngadi/Heap-Sort-DAA-Mini-Project)
-
-### 4. HTML Portfolio
-
-A web development project demonstrating frontend development fundamentals.
-
-🔗 [View Repository](https://github.com/RakeshBasavarajAngadi/html-portfolio)
+🔗 [View LeetCode Progress Tracker](https://github.com/RakeshBasavarajAngadi/leetcode-progress-tracker)
 
 ---
 
